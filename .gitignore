@@ -1,0 +1,8 @@
+# IntelliJ / PhpStorm
+.idea/*
+*.ipr
+*.iml
+*.iws
+
+# Magento
+/app/etc/local.xml
